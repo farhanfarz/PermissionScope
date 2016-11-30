@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import CoreLocation
+//import CoreLocation
 //import AddressBook
 import AVFoundation
 import Photos
